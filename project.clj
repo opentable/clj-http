@@ -1,6 +1,6 @@
-(defproject clj-http "3.0.0-SNAPSHOT"
+(defproject opentable/clj-http "3.0.0-beta"
   :description "A Clojure HTTP library wrapping the Apache HttpComponents client."
-  :url "https://github.com/dakrone/clj-http/"
+  :url "https://github.com/opentable/clj-http/"
   :license {:name "The MIT License"
             :url "http://opensource.org/licenses/mit-license.php"
             :distribution :repo}
